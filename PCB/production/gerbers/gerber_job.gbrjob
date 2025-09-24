@@ -1,0 +1,20 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-09-24T11:51:04Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.805,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "eib-64-nanoz-adapter"
+        },
+        "Owner": "Filipe Carvalho <filipe@oeps.tech>"
+    }
+}
