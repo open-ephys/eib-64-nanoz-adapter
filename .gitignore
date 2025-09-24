@@ -18,3 +18,5 @@ eagle.epf
 
 # File locks (introduced in Eagle 7.x+)
 *.lck  
+
+*.ini
